@@ -40,7 +40,9 @@ body{
 .titlePic{
     width: 100%;
 }
-
+#firstPageMainBG{
+    background-image: url("images/indexbg.jpg");
+}
 #firstPage{
     /* background-color: #fff; */
     background-color: #2a2b33;
